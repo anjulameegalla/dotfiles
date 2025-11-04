@@ -20,6 +20,7 @@
 
 ```
 dotfiles/
+│
 ├── nerdfonts/                           <- Directory for required Nerd Fonts
 │   ├── Hack.zip                         <- Hack Nerd Font for terminal glyphs and icons
 │   └── NerdFontsSymbolsOnly.zip         <- Symbols-only font to ensure icons render correctly

@@ -1,0 +1,9 @@
+[shell]
+disabled = false
+powershell_indicator = ""
+cmd_indicator = ""
+
+[os]
+disabled = false
+format = "$symbol "
+symbols.Windows = ""

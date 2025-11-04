@@ -11,7 +11,7 @@
 </div>
 
 
-> [!IMPORTANT]
+> [!NOTE]
 > Since I work with this repository everyday to maintain ***latest updates*** for my Windows machine, many apps or packages will be **add** / **remove** / **reconfigure** to fit my personal taste.
 
 <br>
